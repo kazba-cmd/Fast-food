@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px;
+    background: green;
+    border-bottom: 1px solid gold;
+    color: gold;
+  }
